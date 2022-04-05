@@ -102,12 +102,12 @@ var params = currentURL().searchParams,
 	json = window.json?.embed ||
 		window.json || {
 			title: '<:Amongdrip:897812953993211924> Among Us',
-			description: 'Hola papus :)',
+			description: ':)',
 			color: 0x5865f2,
 			timestamp: new Date().toISOString(),
-			url: 'https://drgato.ml/',
+			url: 'https://discord.gg/3xEdRQkmcS',
 			author: {
-				name: 'PubertLand',
+				name: 'Lumity support',
 				icon_url: 'https://cdn.discordapp.com/icons/878292405214928926/a_63e1f08c7748cd36944aad42f1ab805e.gif'
 			},
 			thumbnail: {
@@ -117,7 +117,7 @@ var params = currentURL().searchParams,
 				url: 'https://cdn.discordapp.com/banners/883105651407077386/a_b432502056abf47b68d1661495f0fb37.gif?size=2048'
 			},
 			footer: {
-				text: 'LunarBot™️'
+				text: 'Lumity'
 			},
 			fields: []
 		};
