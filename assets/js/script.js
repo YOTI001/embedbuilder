@@ -101,20 +101,20 @@ var params = currentURL().searchParams,
 	jsonKeys = [...mainKeys],
 	json = window.json?.embed ||
 		window.json || {
-			title: '<:Amongdrip:897812953993211924> Among Us',
-			description: ':)',
+			title: '🎫 Tickets',
+			description: ':))))',
 			color: 0x5865f2,
 			timestamp: new Date().toISOString(),
 			url: 'https://discord.gg/3xEdRQkmcS',
 			author: {
 				name: 'Lumity support',
-				icon_url: 'https://cdn.discordapp.com/icons/878292405214928926/a_63e1f08c7748cd36944aad42f1ab805e.gif'
+				icon_url: 'https://c.tenor.com/ShFf6jsKVJoAAAAC/tanjiro-kamado.gif'
 			},
 			thumbnail: {
-				url: 'https://cdn.discordapp.com/avatars/883105651407077386/a_760f47ad2315f016a07ecd985a74df43.gif'
+				url: 'https://c.tenor.com/-efF7zhQGDQAAAAC/tanjiro-demon-slayer.gif'
 			},
 			image: {
-				url: 'https://cdn.discordapp.com/banners/883105651407077386/a_b432502056abf47b68d1661495f0fb37.gif?size=2048'
+				url: 'https://i.pinimg.com/originals/ed/04/53/ed0453d1ca7a5a094073f3a85aa8a3ee.gif'
 			},
 			footer: {
 				text: 'Lumity'
